@@ -25,8 +25,10 @@ public class LoginController {
 	
 	@RequestMapping("/secure/login.controller")
 	public String method(String username, String password, Model model, Locale locale) {
-//接收資料sout
-//驗證資料kkkk組員好兇666
+
+//接收資料
+//驗證資料
+
 		Map<String, String> errors = new HashMap<String, String>();
 		model.addAttribute("errors", errors);
 		
