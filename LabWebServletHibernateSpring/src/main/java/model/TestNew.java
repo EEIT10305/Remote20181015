@@ -3,7 +3,6 @@ package model;
 public class TestNew {
 	public void nice() {
 
-		System.out.println("bbbbbb");
 
 		System.out.println("aaaaa");
 		
