@@ -9,9 +9,18 @@
 </head>
 <body>
 
+
 <h3>Welcome ${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <br><br>
+
+
+<h3>Welcome HELLO AV8D${user.email}</h3>
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<h2>two</h2>
+
+
 </body>
 </html>
