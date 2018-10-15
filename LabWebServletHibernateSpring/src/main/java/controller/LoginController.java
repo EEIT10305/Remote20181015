@@ -28,6 +28,7 @@ public class LoginController {
 
 //接收資料
 //驗證資料
+
 		Map<String, String> errors = new HashMap<String, String>();
 		model.addAttribute("errors", errors);
 		
