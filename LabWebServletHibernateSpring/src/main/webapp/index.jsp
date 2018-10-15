@@ -16,8 +16,25 @@
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
+<<<<<<< HEAD
 
 <h2>yuan</h2>
+=======
+<br><br>
+
+
+<h3>Welcome HELLO AV8D${user.email}</h3>
+
+
+
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+<h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+<h2>two</h2>
+
+<h2>tw</h2>
+<h2>aaabbbccc</h2>
+>>>>>>> branch 'master' of https://github.com/EEIT10305/Remote20181015.git
+
 
 
 </body>
