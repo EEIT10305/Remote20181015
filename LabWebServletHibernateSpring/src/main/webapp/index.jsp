@@ -9,13 +9,11 @@
 </head>
 <body>
 
-<h3>Welcome ${user.email}</h3>
+
+<h3>Welcome HELLO AV8D${user.email}</h3>
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
-<h3>你好這是第二次</h3>
-
-<h2>third</h2>
 
 </body>
 </html>
