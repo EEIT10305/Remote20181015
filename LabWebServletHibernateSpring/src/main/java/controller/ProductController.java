@@ -42,6 +42,7 @@ public class ProductController {
 	@RequestMapping("/pages/product.controller")
 	public String method(ProductBean bean,
 			BindingResult bindingResult, String prodaction, Model model, String id) {
+		System.out.println("ya");
 //接收資料
 //轉換資料
 		Map<String, String> errors = new HashMap<>();
