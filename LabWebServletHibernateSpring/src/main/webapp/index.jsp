@@ -9,7 +9,10 @@
 </head>
 <body>
 
+
 <h3>Welcome ${user.email}</h3>
+
+>>>>>>> branch 'master' of https://github.com/EEIT10305/Remote20181015.git
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
